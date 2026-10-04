@@ -1,0 +1,10 @@
+/* Archivo de estilos personalizados */
+
+body {
+    /* Fondo claro por defecto para el portafolio */
+    background-color: #f8f9fa;
+    /* Configuración Flexbox para un Sticky Footer robusto */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
